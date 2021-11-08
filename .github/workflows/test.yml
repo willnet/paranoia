@@ -2,7 +2,7 @@ name: Test
 
 on:
   push:
-    branches: [ core ]
+    branches: [ core, github-actions-willnet ]
   pull_request:
     branches: [ core ]
 
